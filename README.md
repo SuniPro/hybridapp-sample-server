@@ -1,4 +1,4 @@
-# hybridApp sample admin입니다.
+# hybridApp sample server입니다.
 egov기반으로 작성되었으며, 회원, 티켓 관리, 기타 상품관리등의 기능이 탑재되어있습니다.
 
 
